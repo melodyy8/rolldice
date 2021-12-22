@@ -44,6 +44,7 @@ def roll_kdice(n, k):
     return sum_dice(l)
 
 player_amount = 1000
+playsound('https://soundcloud.com/melody-yi-134794396/yi-dodgeball-gameplay-music?si=e5321d5aca174a5a99cd90772a79343d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing')
 print("Welcome to RollDice! A fun dice game!")
 print("In this game, you will play by rolling dice against the computer!")
 print("The game ends once you earn $1 million, or if you run out of money.")
